@@ -1,0 +1,6 @@
+$ make
+#install module
+$ isnmod hw.ko
+#check the behavior that the module do
+$ dmesg
+
